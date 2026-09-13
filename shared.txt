@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line 1: content changed by branchA
+=======
+Line 1: content changed by branchB
+>>>>>>> branchB
