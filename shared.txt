@@ -1,1 +1,1 @@
-Line 1: original content
+Line 1: content changed by branchA
