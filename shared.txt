@@ -3,4 +3,8 @@ Line 1: content changed by branchA
 =======
 Line 1: content changed by branchB
 >>>>>>> branchB
+<<<<<<< HEAD
 some edit for B1
+=======
+some edit for B2
+>>>>>>> B2
